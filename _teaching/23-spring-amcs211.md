@@ -4,7 +4,7 @@ collection: teaching
 type: "AMCS211 Numerical Optimization"
 permalink: /teaching/23-spring-amcs211
 venue: "KAUST"
-date: 2023
+date: 2023-01-01
 
 [//]: # (location: "City, Country")
 ---
