@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant"
+title: "AMCS241 Stochastic Processes"
 collection: teaching
-type: "AMCS241 Stochastic Processes"
+type: "Graduate Course"
 permalink: /teaching/22-spring-amcs241
 venue: "KAUST"
 date: 2022-01-01
@@ -9,7 +9,7 @@ date: 2022-01-01
 [//]: # (location: "City, Country")
 ---
 
-[//]: # (This is a description of a teaching experience. You can use markdown like any other post.)
+Teaching Assistant with Professor Mohamed-Slim Alouini
 
 [//]: # ()
 [//]: # (Heading 1)
