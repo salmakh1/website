@@ -1,10 +1,10 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Master Course"
-permalink: /teaching/2015-spring-teaching-1
+type: "AMCS241 Stochastic Processes"
+permalink: /teaching/AMCS241
 venue: "KAUST"
-date: 2022-01-01
+date: Spring 2022
 
 [//]: # (location: "City, Country")
 ---
