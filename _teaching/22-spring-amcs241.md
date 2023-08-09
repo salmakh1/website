@@ -4,7 +4,7 @@ collection: teaching
 type: "AMCS241 Stochastic Processes"
 permalink: /teaching/22-spring-amcs241
 venue: "KAUST"
-date: Spring 2022
+date: 2022
 
 [//]: # (location: "City, Country")
 ---
