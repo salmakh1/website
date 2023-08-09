@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "AMCS241 Stochastic Processes"
-permalink: /teaching/AMCS241
+permalink: /teaching/22-spring-amcs241
 venue: "KAUST"
 date: Spring 2022
 

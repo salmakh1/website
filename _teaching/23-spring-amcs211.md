@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "AMCS211 Numerical Optimization"
-permalink: /teaching/AMCS211
+permalink: /teaching/23-spring-amcs211
 venue: "KAUST"
 date: Spring 2023
 
