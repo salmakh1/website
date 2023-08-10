@@ -1,9 +1,9 @@
 ---
 title: "Introduction to Artificial Intelligence"
 collection: teaching
-type: "Bootcamp"
+type: "Boot Camp"
 permalink: /teaching/23-spring-aibootcamp
-venue: "KSU"
+venue: "King Saud University"
 date: 2023-02-01
 
 [//]: # (location: "City, Country")
