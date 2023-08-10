@@ -37,19 +37,14 @@ Education
 
 [//]: # (  * Supervisor: Professor Hub)
   
-Skills
+Interests
 ======
 * Machine Learning
   * Reinforcement Learning
   * Deep Learning
   * Federated Learning
   * Online Learning
-* Mathematics
-  * Optimization
-  * Statistics
-* Programming
-  * Python 
-  * Pytorch
+
 
 Publications
 ======
@@ -57,11 +52,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[//]: # (Talks)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.talks %})
+
+[//]: # (    {% include archive-single-talk-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
   
 Teaching
 ======
