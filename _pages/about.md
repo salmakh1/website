@@ -1,7 +1,7 @@
 ---
 permalink: /
 
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 
 excerpt: "About me"
 author_profile: true
@@ -9,8 +9,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Biography
 
 I am a Ph.D. student at the King Abdullah University of Science and Technology (KAUST), under the co-supervision of Professor Mohamed-Slim Alouini (KAUST) and Professor Vaneet Aggarwal (Purdue University). I am interested in artificial intelligence, mainly deep learning and reinforcement learning. 
 
