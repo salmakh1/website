@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Machine Learning, KAUST (ongoing)
-* M.Sc. in Electrical and Computer Engineering, KAUST, 2022
+* Ph.D. in Machine Learning, KAUST, (Ongoing)
+* Master of Science in Electrical and Computer Engineering, KAUST, 2022
 * Diplôme d'Ingénieur in Multidisciplinary Engineering, Ecole Polytechnique de Tunisie, 2020
 * Classes Préparatoires in Mathematics and Physics, University of Sfax, 2017
 
@@ -41,9 +41,10 @@ Interests
 ======
 * Machine Learning
   * Reinforcement Learning
+  * Online Learning
   * Deep Learning
   * Federated Learning
-  * Online Learning
+
 
 
 Publications
@@ -53,13 +54,12 @@ Publications
   {% endfor %}</ul>
 
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-  
 
 Teaching
 ======
