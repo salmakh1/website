@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fares Fourati"
+title                    : "Salma Kharrat"
 title_separator          : "-"
-name                     : &name "Fares Fourati"
+name                     : &name "Salma Kharrat"
 description              : &description "personal description"
-url                      : https://fouratifares.github.io/faresfourati.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/salmakh1/salma_kharrat/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fouratifares/faresfourati.github.io/"
+repository               : "https://github.com/salmakh1"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fares Fourati"
+  name             : "Salma Kharrat"
   avatar           : "profile.png"
   bio              : "Ph.D. student in ML at KAUST"
   location         :
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=FAmOUOIAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=iz2XtqsAAAAJ"
   email            :
   researchgate     :
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fouratifares"
+  github           : "salmakh1"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "fares-fourati-96641914a"
+  linkedin         : "salma-kharrat-758231151"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "FaresFouratii"
+  twitter          : "KharratSalma"
   vine             :
   weibo            :
   xing             :
