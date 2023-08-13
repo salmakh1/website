@@ -16,9 +16,7 @@ Education
 * Diplôme d'Ingénieur in Computer Science and Engineering, National School of Computer Science, 2020
 * Classes Préparatoires in Mathematics and Physics, University of Sfax, 2017
 
-[//]: # (Work experience)
 
-[//]: # (======)
 
 [//]: # (* Summer 2015: Research Assistant)
 
@@ -44,7 +42,9 @@ Interests
 * Deep Learning
   
 
-
+Experience
+======
+* Visiting Scholar at Anne-Marie Kermarrec lab at EPFL during summer 2022.
 
 Publications
 ======
