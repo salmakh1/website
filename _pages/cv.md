@@ -10,8 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * Ph.D. in Machine Learning, KAUST, (Ongoing)
 * Master of Science in Computer Science, KAUST, 2022
 * Diplôme d'Ingénieur in Computer Science and Engineering, National School of Computer Science, 2020
@@ -36,33 +36,33 @@ Education
 
 [//]: # (  * Supervisor: Professor Hub)
   
-Interests
-======
+## Interests
+
 * Federated Learning
 * Machine Learning
 * Deep Learning
   
 
-Experience
-======
+## Experience
+
 * Visiting Scholar at Anne-Marie Kermarrec lab at EPFL during summer 2022.
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
   
-Presentations
-======
+## Presentations
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
