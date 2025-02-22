@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed14b9a-f735-4aa4-8ab0-1a5057c5dbe1" name="Changes" comment="presentation">
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2025-05-03-dpfl.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2025-05-03-dpfl.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2025-05-03-ecp.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2025-05-03-ecp.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2025-09-01-acing.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2025-09-01-acing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +82,7 @@
       <workItem from="1691834698100" duration="6273000" />
       <workItem from="1717835946406" duration="3766000" />
       <workItem from="1721543003929" duration="4380000" />
-      <workItem from="1740231011227" duration="2683000" />
+      <workItem from="1740231011227" duration="3103000" />
     </task>
     <task id="LOCAL-00001" summary="config">
       <created>1691834960103</created>
