@@ -106,12 +106,12 @@ Ph.D. Candidate in Computer Science, KAUST
 
 ### Core A*/A Conferences
 <ul>{% for post in site.publications reversed %}
-  {% if post.collection == "publications" %}{% include archive-single-cv.html %}{% endif %}
+  {% if post.category == "publications" %}{% include archive-single-cv.html %}{% endif %}
 {% endfor %}</ul>
 
 ### Workshops
 <ul>{% for post in site.publications reversed %}
-  {% if post.collection == "workshop" %}{% include archive-single-cv.html %}{% endif %}
+  {% if post.category == "workshop" %}{% include archive-single-cv.html %}{% endif %}
 {% endfor %}</ul>
 
 ---

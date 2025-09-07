@@ -5,6 +5,8 @@ permalink: /publication/2025-09-18-LIMARL-EWRL
 date: 2025-09-18
 venue: 'European Workshop on Reinforcement Learning (EWRL)'
 paperurl: 'https://openreview.net/pdf?id=PHoq8zmFu8'
+category: "workshop"
+
 ---
 Salma Kharrat, Fares Fourati, Mohamed-Slim Alouini,  Marco Canini, & Vaneet Aggarwal
 

@@ -5,6 +5,7 @@ permalink: /publication/2025-09-17-acing-EWRL
 date: 2025-09-17
 venue: 'European Workshop on Reinforcement Learning (EWRL)'
 paperurl: 'https://arxiv.org/abs/2411.12736'
+category: "workshop"
 ---
 Salma Kharrat, Fares Fourati, & Marco Canini
 
