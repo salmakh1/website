@@ -1,5 +1,5 @@
 ---
-title: "ACING: Actor-Critic for Instruction Learning in Black-Box LLMs"
+title: "Latent Inference for Effective Multi-Agent Reinforcement Learning under Partial Observability"
 collection: workshop
 permalink: /publication/2025-09-18-LIMARL-EWRL
 date: 2025-09-18
