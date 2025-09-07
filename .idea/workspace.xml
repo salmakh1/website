@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ed14b9a-f735-4aa4-8ab0-1a5057c5dbe1" name="Changes" comment="presentation">
+    <list default="true" id="5ed14b9a-f735-4aa4-8ab0-1a5057c5dbe1" name="Changes" comment="Acing">
+      <change afterPath="$PROJECT_DIR$/_talks/2025-08-04-cambridge.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +86,7 @@
       <workItem from="1721543003929" duration="4380000" />
       <workItem from="1740231011227" duration="4310000" />
       <workItem from="1740571375542" duration="576000" />
+      <workItem from="1757241439021" duration="804000" />
     </task>
     <task id="LOCAL-00001" summary="config">
       <created>1691834960103</created>
@@ -211,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1721983270401</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Acing">
+      <created>1757241509909</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1757241509909</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +248,8 @@
     <MESSAGE value="url" />
     <MESSAGE value="filfl" />
     <MESSAGE value="presentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="presentation" />
+    <MESSAGE value="Acing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Acing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
