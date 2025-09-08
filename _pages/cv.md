@@ -1,7 +1,5 @@
 ---
 layout: archive
-title: "CV"
-
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -140,10 +138,4 @@ Ph.D. Candidate in Computer Science, KAUST
 
 ---
 
-## Hobbies
 
-* Traveling  
-* Biking  
-* Frisbee  
-* Cooking  
-* Table Tennis  
