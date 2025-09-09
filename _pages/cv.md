@@ -1,6 +1,11 @@
 
-{% include base_path %}
 
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
 
 # Salma Kharrat
 Ph.D. Candidate in Computer Science, KAUST  
